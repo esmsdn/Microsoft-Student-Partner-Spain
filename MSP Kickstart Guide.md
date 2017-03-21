@@ -1,7 +1,10 @@
-**Bienvenido al programa Microsoft Student Partner**
+![](media/549c4a2c2beaf689f095b1f43ec67f35.wmf)
 
-¡Enhorabuena! Formas parte de la comunidad Microsoft Student Partner y estamos
-encantados de poder contar contigo.
+**Bienvenido al programa Microsoft Student Partner**
+====================================================
+
+¡Enhorabuena! Has sido seleccionado como Microsoft Student Partner y estamos
+encantados de poder contar contigo durante el año 2015-2016. 
 
 Cada día, en más de 110 países en todo el mundo, miles de MSPs comparten su
 conocimiento y pasión por la tecnología con sus compañeros, adquiriendo
@@ -13,8 +16,8 @@ Ser MSP te coloca en una posición privilegiada y en primera línea para conocer
 antes que nadie todas las novedades de las tecnologías más recientes (o las que
 aún están a punto de salir…), y te convierte en la persona a la que otros
 estudiantes recurren para obtener respuestas y conocer las nuevas tendencias de
-Microsoft. Esta guía pone a tu disposición la información que necesitas para
-aprovechar al máximo tu tiempo como MSP. 
+Microsoft. Esta guía de iniciación pone a tu disposición la información que
+necesitas para aprovechar al máximo tu tiempo como MSP. 
 
 Beneficios del programa MSP
 ---------------------------
@@ -26,9 +29,9 @@ sacar el máximo partido de esta experiencia. Algunas de estas ventajas son:
     gracias a la cual tendrás acceso a casi todo el software de Microsoft, del
     que nos gusta destacar:
 
--   Visual Studio Team Services: herramienta online que te permite crear
-    repositorio de código privados ilimitados, realizar control de versiones,
-    trabajo en equipo, gestión de proyectos con metodologías ágiles…
+-   Visual Studio Online: herramienta online que te permite crear repositorio de
+    código privados ilimitados, realizar control de versiones, trabajo en
+    equipo, gestión de proyectos con metodologías ágiles…
 
 -   Azure: suscripción con 130€ de crédito para que gastes cada mes en tus
     proyectos en la plataforma de cloud computing de Microsoft.
@@ -47,8 +50,8 @@ sacar el máximo partido de esta experiencia. Algunas de estas ventajas son:
     Exchange Online, Skype for Business y aplicaciones Office para varios
     dispositivos de las principales plataformas
 
--   Microsoft Imagine: portal donde poder obtener servicios de Microsoft de
-    manera gratuita para estudiantes y MSP
+-   Dreamspark: portal donde poder obtener servicios de Microsoft de manera
+    gratuita para estudiantes y MSP
 
 -   Certificados de pertenencia al programa: certificados oficiales como miembro
     del programa MSP, de cara a mejorar tu CV
@@ -228,15 +231,15 @@ Participación en eventos y concursos
 -   Activa tu cuenta MSDN: recibirás un enlace para activarlo o bien un código
     para usarlo en el portal de MSDN.
 
--   Solicita acceso al grupo de Facebook de
-    [España](https://www.facebook.com/groups/MicrosoftStudentPartnersSpain/) y
-    [global](https://www.facebook.com/groups/MSFTStudentPartners/), y preséntate
-    al resto.
+-   Solicita acceso al grupo de
+    [Facebook](https://www.facebook.com/groups/MicrosoftStudentPartnersSpain/) y
+    [Yammer](https://www.yammer.com/microsoftsps/#/Threads/index?type=algo) y
+    preséntate al resto.
 
 -   Crea tu web/blog que se convertirá en tu portfolio utilizando tu cuenta
     gratuita de Azure para crear el blog. [Tan solo tienes que seguir el paso a
     paso que hemos creado para
-    ti](https://blogs.msdn.microsoft.com/esmsdn/2015/07/15/crea-tu-blog-gratis-con-dreamspark/).
+    ti](•%09http:/blogs.msdn.com/b/esmsdn/archive/2015/07/15/crea-tu-blog-gratis-con-dreamspark.aspx).
 
 -   Solicita un buddy y un mentor (MSP, MSP Alumni, MVP…) escribiendo a
     <esdpeestudiantes@microsoft.com>
@@ -254,19 +257,19 @@ Participación en eventos y concursos
 -   Puedes seguir las cuentas de los evangelistas para conocerles mejor y poder
     hablar con ellos
 
->   **Ester de Nicolás:** [\@esterdenicolas](https://twitter.com/esterdenicolas)
+>   **Jose Bonnin:** [\@wasat](https://twitter.com/wasat)
 
 >   **Alejandro Campos:** [\@alejacma](https://twitter.com/alejacma)
 
->   **Diego Martínez:** [\@diegomrtnzg](https://twitter.com/diegomrtnzg)
+>   **Jose Angel Fernández:** [\@jangelfdez](http://twitter.com/jangelfdez)
 
->   **Gorka Madariaga:** [\@Gk\_8](https://twitter.com/Gk_8)
+>   **Luis Guerrero:** [\@Guerrerotook](https://twitter.com/Guerrerotook)
+
+>   **Juan Manuel Servera:** [\@jmservera](https://twitter.com/jmservera)
 
 >   **Isabel Cabezas:** [\@isabelcabezasm](https://twitter.com/isabelcabezasm)
 
->   **Javier Gómez:** [\@javierglozano](https://twitter.com/javierglozano)
-
->   **Juan Manuel Servera:** [\@jmservera](https://twitter.com/jmservera)
+>   **Gorka Madariaga:** [\@Gk\_8](https://twitter.com/Gk_8)
 
 -   Completa uno de los cursos de Microsoft Virtual Academy propuestos:
 
@@ -300,3 +303,7 @@ Participación en eventos y concursos
 
 Si tienes cualquier consulta contacta con nosotros a través de nuestro alias de
 estudiantes <espdeestudiantes@microsoft.com>
+
+De parte de todo el equipo de DX, enhorabuena y ¡bienvenido!
+
+![](media/b9cade1c62126df8431a465d5280a978.png)
