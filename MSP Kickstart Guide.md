@@ -54,7 +54,7 @@ Detrás de todo el programa, está todo el equipo del departamento de Developer 
 
 Ya sabes, si tienes cualquier pregunta, duda, problema o simplemente tienes algo que contarnos, no dudes en ponerte en contacto con nosotros y estaremos encantados de ayudarte.
 
-Además del equipo de Microsoft, lo más importante del programa sois vosotros, los Microsoft Student Partners, estudiantes apasionados por la tecnología, activos en las comunidades de Microsoft y que les gusta aprender y descubrir nuevas tecnologías junto a nosotros. Puedes conocer a algunos de tus compañeros MSPs (<http://aka.ms/mspspainlist>) y ver algunos de sus proyectos (<http://aka.ms/mspspainprojects>) para inspirarte…¡e ir pensando en los tuyos!
+Además del equipo de Microsoft, lo más importante del programa sois vosotros, los Microsoft Student Partners, estudiantes apasionados por la tecnología, activos en las comunidades de Microsoft y que les gusta aprender y descubrir nuevas tecnologías junto a nosotros. Puedes conocer a algunos de tus [compañeros MSPs](http://aka.ms/mspspainlist) y ver algunos de [sus proyectos](http://aka.ms/mspspainprojects) para inspirarte…¡e ir pensando en los tuyos!
 
 ¿Qué esperamos de tí?
 ---------------------
@@ -80,7 +80,7 @@ Participación en eventos y concursos
 
 Existen multitud de iniciativas y concursos de los que puedes formar parte, aunque como MSP te animamos a que vayas un paso más allá, y seas tú el que organice y promueva estas actividades en tu comunidad.
 
-Con la finalidad de ayudarte a planificar tus actividades puedes acceder a esta página donde encontrarás los eventos que se van a realizar: <http://aka.ms/msspainevents>
+Con la finalidad de ayudarte a planificar tus actividades puedes acceder a [esta página](http://aka.ms/msspainevents) donde encontrarás los eventos que se van a realizar.
 
 A continuación, te detallamos algunas de las iniciativas globales en las que puedes participar como parte de la experiencia internacional que supone pertenecer al programa MSP:
 
@@ -138,14 +138,14 @@ Los primeros pasos que te recomendamos para empezar tu camino como MSP son:
 -   Sigue las cuentas de [MSDN](http://www.twitter.com/msdev_es) y de [Technet](http://www.twitter.com/TechNet_es) para estar al día de todo lo
     que hacemos
 
--   Puedes seguir las cuentas de los evangelistas para conocerles mejor y poder hablar con ellos
-    **Ester de Nicolás:** [\@esterdenicolas](https://twitter.com/esterdenicolas)
-    **Alejandro Campos:** [\@alejacma](https://twitter.com/alejacma)
-    **Diego Martínez:** [\@diegomrtnzg](https://twitter.com/diegomrtnzg)
-    **Gorka Madariaga:** [\@Gk\_8](https://twitter.com/Gk_8)
-    **Isabel Cabezas:** [\@isabelcabezasm](https://twitter.com/isabelcabezasm)
-    **Javier Gómez:** [\@javierglozano](https://twitter.com/javierglozano)
-    **Juan Manuel Servera:** [\@jmservera](https://twitter.com/jmservera)
+-   Puedes seguir las cuentas de los evangelistas para conocerles mejor y poder hablar con ellos:
+    * **Ester de Nicolás:** [\@esterdenicolas](https://twitter.com/esterdenicolas)
+    * **Alejandro Campos:** [\@alejacma](https://twitter.com/alejacma)
+    * **Diego Martínez:** [\@diegomrtnzg](https://twitter.com/diegomrtnzg)
+    * **Gorka Madariaga:** [\@Gk\_8](https://twitter.com/Gk_8)
+    * **Isabel Cabezas:** [\@isabelcabezasm](https://twitter.com/isabelcabezasm)
+    * **Javier Gómez:** [\@javierglozano](https://twitter.com/javierglozano)
+    * **Juan Manuel Servera:** [\@jmservera](https://twitter.com/jmservera)
 
 -   Completa uno de los cursos de Microsoft Virtual Academy propuestos:
 
