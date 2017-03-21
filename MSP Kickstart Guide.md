@@ -3,7 +3,7 @@
 **Bienvenido al programa Microsoft Student Partner**
 ====================================================
 
-¡Enhorabuena! Has sido seleccionado como Microsoft Student Partner y estamos encantados de poder contar contigo durante el año 2015-2016. 
+¡Enhorabuena! Formas parte del programa Microsoft Student Partner y estamos encantados de poder contar contigo. 
 
 Cada día, en más de 110 países en todo el mundo, miles de MSPs comparten su conocimiento y pasión por la tecnología con sus compañeros, adquiriendo habilidades de liderazgo y comunicación, así como experiencia técnica.  
 
@@ -169,7 +169,3 @@ Los primeros pasos que te recomendamos para empezar tu camino como MSP son:
         en Channel9
 
 Si tienes cualquier consulta contacta con nosotros a través de nuestro alias de estudiantes <espdeestudiantes@microsoft.com>
-
-De parte de todo el equipo de DX, enhorabuena y ¡bienvenido!
-
-![](media/b9cade1c62126df8431a465d5280a978.png)
